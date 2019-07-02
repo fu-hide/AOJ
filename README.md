@@ -9,5 +9,5 @@ C++の練習を兼ねています。
 ⇨[My Status by AOJ](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=fuhide)
 
 #### AtCoder
-⇨[My AtCoder profile](https://atcoder.jp/users/hidemitu)
+⇨[My AtCoder profile](https://atcoder.jp/users/hidemitu)  
 ⇨[My code in AtCoder](https://github.com/fu-hide/AtCoder)
